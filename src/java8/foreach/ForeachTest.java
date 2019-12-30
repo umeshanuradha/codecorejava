@@ -46,7 +46,7 @@ public class ForeachTest {
 
         System.out.println("forEach completed................");
 
-        
+
 
     }
 }
