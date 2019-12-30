@@ -44,6 +44,9 @@ public class ForeachTest {
         TestConsumer testConsumer = new TestConsumer();
         list.forEach(testConsumer);
 
+        System.out.println("forEach completed................");
+
+        
 
     }
 }
